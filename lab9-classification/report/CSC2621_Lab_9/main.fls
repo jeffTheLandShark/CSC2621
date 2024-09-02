@@ -1,0 +1,294 @@
+PWD c:\Users\goetschm\Documents\CSC2621\lab9-classification\report\CSC2621_Lab_9
+INPUT C:\Users\goetschm\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\goetschm\Documents\CSC2621\lab9-classification\report\CSC2621_Lab_9\main.tex
+OUTPUT main.log
+INPUT .\labReport.cls
+INPUT labReport.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fourier.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fourier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\t1futs.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\t1futs.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\t1futs.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fourier-orns.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fourier-orns.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\blindtext\blindtext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\blindtext\blindtext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\xspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\xspace.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\tablefootnote\tablefootnote.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\tablefootnote\tablefootnote.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\xifthen\xifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmlfutm.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmlfutm.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmlfutm.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmsfutm.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmsfutm.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmsfutm.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmxfutm.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmxfutm.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmxfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.out
+INPUT main.out
+OUTPUT main.pdf
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.out
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT .\msoe.png
+INPUT .\msoe.png
+INPUT .\msoe.png
+INPUT .\msoe.png
+INPUT .\msoe.png
+INPUT .\msoe.png
+INPUT .\msoe.png
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Users\goetschm\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmlfutmi.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmlfutmi.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\fmlfutmi.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futb8t.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futb8t.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\ts1futs.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\ts1futs.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\tex\latex\fourier\ts1futs.fd
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\futr8c.tfm
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\vf\public\fourier\futr8c.vf
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\tfm\public\fourier\fourier-orns.tfm
+INPUT main.aux
+INPUT .\main.out
+INPUT .\main.out
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\type1\adobe\utopia\putb8a.pfb
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\type1\adobe\utopia\putb8a.pfb
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\type1\adobe\utopia\putr8a.pfb
+INPUT C:\Users\goetschm\AppData\Roaming\MiKTeX\fonts\type1\adobe\utopia\putr8a.pfb
